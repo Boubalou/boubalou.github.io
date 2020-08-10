@@ -33,7 +33,7 @@
 		"prioritySource": "ODM-Default-no-value",
 		"priorityModelID": null,
 		"isMobilityOffer": false,
-		"position": "Top",
+		"position": "Middle",
 		"pageName": "AddRemoveFeature",
 		"viewType": "offer"
 	}],
