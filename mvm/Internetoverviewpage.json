@@ -32,7 +32,7 @@
 		"priority": "0.001",
 		"prioritySource": "ODM-Default-no-value",
 		"priorityModelID": null,
-		"isMobilityOffer": true,
+		"isMobilityOffer": false,
 		"position": "Top",
 		"pageName": "Internetoverviewpage",
 		"viewType": "offer"
