@@ -202,7 +202,7 @@
           "prioritySource": "ODM-Default-no-value",
           "priorityModelID": null,
           "isMobilityOffer": true,
-          "position": "Bottom",
+          "position": "Middle",
           "pageName": "MainLandingpage",
           "viewType": "offer"
       },
@@ -240,7 +240,7 @@
           "prioritySource": "ODM-Default-no-value",
           "priorityModelID": null,
           "isMobilityOffer": true,
-          "position": "Middle",
+          "position": "Bottom",
           "pageName": "MainLandingpage",
           "viewType": "offer"
       }
