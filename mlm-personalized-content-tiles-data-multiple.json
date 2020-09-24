@@ -176,7 +176,7 @@
           "styles": null,
           "groupCategory": "Order",
           "iconClass": "i29_promo_soon_ending",
-          "category": "Exclusive Offer!",
+          "category": "Super offer!",
           "title": "Get Unlimited Canada to U.S. long distance calling for $15/mo.",
           "imageUrl": null,
           "body": "Offer available online only, for a limited time. Click on the Long Distance tab and select ‘No Canada to U.S. LD charges’ option.",
@@ -202,7 +202,7 @@
           "prioritySource": "ODM-Default-no-value",
           "priorityModelID": null,
           "isMobilityOffer": true,
-          "position": "Middle",
+          "position": "Bottom",
           "pageName": "MainLandingpage",
           "viewType": "offer"
       },
